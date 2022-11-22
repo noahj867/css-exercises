@@ -32,8 +32,7 @@ body {
   color: darkmagenta;
   display: flex;
   justify-content: center;
-  align-content: center;
-  
+  align-items: center;
 }
 
 .sidebar {
@@ -42,7 +41,6 @@ body {
   display: flex;
   flex-shrink: 0;
   margin-right: 20px;
-  justify-content: 
 }
 
 ul {
